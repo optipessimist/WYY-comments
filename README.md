@@ -1,2 +1,8 @@
 # WYY-comments
- choose every song in wyy to get its comments and create WordCloud 输入歌名可以获取网易云音乐上的评论并制作词云
+ 
+python爬虫获取网易云音乐的歌曲评论
+
+用selenium来对所需的任何一首歌搜索并获取信息
+
+词云制作部分主要根据https://blog.csdn.net/FontThrone/article/details/72782971 
+
